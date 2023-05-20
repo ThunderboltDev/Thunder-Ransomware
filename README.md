@@ -22,8 +22,10 @@ It is essential to prioritize ethical behavior and use programming skills respon
 Please use this information responsibly, for educational purposes only, and always adhere to the legal and ethical guidelines that govern your jurisdiction.
 
 ## TO DO LIST:
-Fix form3 and make it list the encoded files
+> Fix form3 and make it list the encoded files
 
-Add Report to telegram the users info and etc
+> Add Report to telegram the users info and etc
 
-Adding Anti VM And Anti Debug
+> Adding Anti VM And Anti Debug
+
+> Add Info Grabber
