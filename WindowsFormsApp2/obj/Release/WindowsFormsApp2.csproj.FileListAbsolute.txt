@@ -1,0 +1,16 @@
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form2.resources
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Newtonsoft.Json.xml
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.Fody.CopyLocal.cache
+C:\Users\jguia\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form3.resources
