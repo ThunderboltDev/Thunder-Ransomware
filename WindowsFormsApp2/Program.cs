@@ -57,7 +57,7 @@ namespace WindowsFormsApp2
         {
             using (System.Net.Http.HttpClient client = new System.Net.Http.HttpClient())
             {
-                string apiKey = "523d1f71a56f4e3b846ae1804fe1be75"; // Replace with your actual API key
+                string apiKey = "Put your key here from ipgeolocation "; // Replace with your actual API key
                 string url = $"https://api.ipgeolocation.io/ipgeo?apiKey={apiKey}&ip={ip}";
                 try
                 {
