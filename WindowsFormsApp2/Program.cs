@@ -95,7 +95,7 @@ namespace WindowsFormsApp2
 
         static bool IsAllyCountry(string country)
         {
-            List<string> alliedCountries = new List<string>
+            List<string> alliedCountries = new List<string> \\put the countries you dont want to infect
             {
                 "Canada",
                 "United Kingdom",
